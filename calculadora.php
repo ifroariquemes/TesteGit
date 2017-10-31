@@ -5,7 +5,7 @@ function soma($a, $b) {
 }
 
 function diferenca($a, $b) {
-	// retornar diferenca
+	return $a - $b;
 }
 
 function multiplica($a, $b) {

@@ -9,6 +9,7 @@ function diferenca($a, $b) {
 }
 
 function multiplica($a, $b) {
+	return $a*$b;
 	// retornar produto
 }
 

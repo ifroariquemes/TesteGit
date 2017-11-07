@@ -10,7 +10,11 @@ function diferenca($a, $b) {
 
 function multiplica($a, $b) {
 	return $a*$b;
-	// retornar produto
+	
+}
+function divisao($a, $b) {
+	return $a/$b;
+	
 }
 
 print_r(soma(1, 2));
